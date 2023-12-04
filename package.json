@@ -1,0 +1,19 @@
+﻿{
+  "name": "com.mb6.devoid-ui-framework",
+  "version": "1.0.0",
+  "displayName": "Devoid UI Framework",
+  "description": "This is a basic iUGUI Framework for create Unity GUI. It was created by Yanko Oliveira originally. This is just me creating a unity package wrapper for it",
+  "unity": "2021.3",
+  "unityRelease": "4f1",
+  "documentationUrl": "https://github.com/yankooliveira/uiframework",
+  "licensesUrl": "https://opensource.org/license/mit/",
+  "keywords": [
+    "ugui",
+    "framework",
+    "gui"
+  ],
+  "author": {
+    "name": "Scott Heinrichs",
+    "email": "bin.scott.heinrichs@gmail.com",
+  }
+}
